@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <title>Table layout</title>
   <meta charset="UTF-8">
   <title>Bus Pass Application Form</title>
   <style>
