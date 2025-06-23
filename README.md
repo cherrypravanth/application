@@ -56,22 +56,16 @@
     <form action="#" method="post">
       <label for="fullName">Full Name</label>
       <input type="text" id="fullName" name="fullName" required>
-
       <label for="dob">Date of Birth</label>
       <input type="date" id="dob" name="dob" required>
-
       <label for="email">Email</label>
       <input type="email" id="email" name="email" required>
-
       <label for="phone">Phone Number</label>
       <input type="text" id="phone" name="phone" required>
-
       <label for="address">Address</label>
       <textarea id="address" name="address" rows="3" required></textarea>
-
       <label for="route">Route (From - To)</label>
       <input type="text" id="route" name="route" placeholder="e.g. City Center to University" required>
-
       <label for="passType">Pass Type</label>
       <select id="passType" name="passType" required>
         <option value="">--Select Pass Type--</option>
@@ -80,11 +74,9 @@
         <option value="student">Student</option>
         <option value="senior">Senior Citizen</option>
       </select>
-
       <label for="idProof">ID Proof Number</label>
       <input type="text" id="idProof" name="idProof" required>
-
-      <button type="submit">Submit Application</button>
+      button type="submit">Submit Application</button>
     </form>
   </div>
 </body>
